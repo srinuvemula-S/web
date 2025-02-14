@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Encode+Sans+SC:wght@100..900&display=swap');
+.my-container{
+    background-color: pink;
+    font-family: "Encode Sans SC", serif;
+    font-size: 30px;
+    text-align: center;
+}
+.head {
+    color:#1b5ec2;
+}
+.para {
+    color: #161615;
+}
+.button{
+    color: red;
+    cursor:hand;
+    text-align: center;
+
+}
+.hee{
+    color: rgb(48, 57, 57);
+    text-decoration: underline;
+    
+}
+.pww{
+    color:black;
+   
+}
